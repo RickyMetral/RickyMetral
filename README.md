@@ -10,7 +10,7 @@
 
 
 ### 🤵 About Me:
-- 🏦 I am currently a Sophomore at the University of Central Florida
+- 🏦 I am currently a Junior at the University of Central Florida
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.cpp```,``` .py```, ```.c```
 - 🌱 I’m currently learning ML and PyTorch
