@@ -10,10 +10,10 @@
 
 
 ### 🤵 About Me:
-- 🏦 I am currently a Junior at the University of Central Florida
+- 🏦 I am currently a Senior at the University of Central Florida
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.cpp```,``` .py```, ```.c```
-- 🌱 I’m currently learning ML and PyTorch
+- 🌱 I’m currently learning Networking and Operating Systems
 - 💬 Talk to me about rock climbing🧗, soccer⚽️, and all things CS💻 
 - 😄 Pronouns: He/Him
 - 📫 Reach out to me at: ricardometral2005@gmail.com
